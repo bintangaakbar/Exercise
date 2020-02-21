@@ -11,7 +11,7 @@ while loop:
         print("Pesan Rental Mobil")
         print("="*10)
         print("pilih kelas mobil! ")
-        print("-"*8)
+        print("-"*10)
         print("1.   Luxury")
         print("2.   Sedan")
         print("3.   EXIT")
