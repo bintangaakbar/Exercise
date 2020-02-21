@@ -97,7 +97,7 @@ while loop:
         print("-"*10)
         print("\nNomor    Nama\tTipe\tHarga per Jam")
         print("-"*10)
-        print("\n301.   Panambulai\tSemen\tRp. 80,000")
+        print("\n301.   Barung\tSemen\tRp. 80,000")
         print("\n302.   Deli\tSemen\tRp. 80,000")
         print("-"*20)
         no_lpg = int(input("Masukkan Nomor Lapangan   :   "))
